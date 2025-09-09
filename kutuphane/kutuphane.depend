@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1747530652 source:c:\users\user\desktop\yeni klasör\kutuphane\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+
+1748192627 source:c:\users\user\desktop\220229041\kutuphane\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+
